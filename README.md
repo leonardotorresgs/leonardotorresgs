@@ -18,12 +18,12 @@
 
   
 <div>
-  <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leonardootgs@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--
   <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 -->
   
-[![Linkedin: leonardotorresgsilva](https://img.shields.io/badge/-leonardotorresgsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardotorresgsilva/)](https://www.linkedin.com/in/leonardotorresgsilva/)
+[![Linkedin: leonardotorresgsilva](https://img.shields.io/badge/-leonardotorresgsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&target=blank&link=https://www.linkedin.com/in/leonardotorresgsilva/)](https://www.linkedin.com/in/leonardotorresgsilva/)
 [![GitHub Leonardo Torres](https://img.shields.io/github/followers/leonardotorresgs?label=follow&style=social)](https://github.com/leonardotorresgs)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leonardotorresgs.leonardotorresgs)
