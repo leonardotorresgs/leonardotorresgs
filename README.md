@@ -24,6 +24,6 @@
 </div>
 -->
   
-[![Linkedin: leonardotorresgsilva](https://img.shields.io/badge/-leonardotorresgsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&target=blank&link=https://www.linkedin.com/in/leonardotorresgsilva/)](https://www.linkedin.com/in/leonardotorresgsilva/)
+[![Linkedin: leonardotorresgsilva](<a href="https://img.shields.io/badge/-leonardotorresgsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardotorresgsilva/)](https://www.linkedin.com/in/leonardotorresgsilva/)" target=blank></a>
 [![GitHub Leonardo Torres](https://img.shields.io/github/followers/leonardotorresgs?label=follow&style=social)](https://github.com/leonardotorresgs)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leonardotorresgs.leonardotorresgs)
