@@ -10,7 +10,7 @@
 </div>
   
 <div>
-  <a href="https://www.linkedin.com/in/leonardotorregsilva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leonardotorresgsilva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leonardotorresgs.leonardotorresgs)
